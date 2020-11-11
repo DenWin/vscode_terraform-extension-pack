@@ -4,7 +4,7 @@
 	"description": "Popular Visual Studio Code extensions for Terraform",
 	"version": "0.1.0",
 	"publisher": "denwin",
-	"icon": "terraform-icon-color-7fbc9ecc.svg",
+	"icon": "terraform-icon-color-7fbc9ecc.png",
 	"galleryBanner": {
 		"color": "#f0efe7",
 		"theme": "light"
