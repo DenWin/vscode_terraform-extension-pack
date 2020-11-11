@@ -1,0 +1,49 @@
+{
+	"name": "terraform-extension-pack",
+	"displayName": "Terraform Extension Pack",
+	"description": "Popular Visual Studio Code extensions for Terraform",
+	"version": "0.1.0",
+	"publisher": "denwin",
+	"icon": "terraform-icon-color-7fbc9ecc.svg",
+	"galleryBanner": {
+		"color": "#f0efe7",
+		"theme": "light"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"keywords": [
+		"terraform", "cicd", "ci/cd"
+	],
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"url": "https://github.com/DenWin/vscode_terraform-extension-pack"
+	},
+	"homepage": "https://github.com/DenWin/vscode_terraform-extension-pack",
+	"bugs": {
+		"url": "https://github.com/DenWin/vscode_terraform-extension-pack/issues"
+	},
+	"extensionPack": [
+		"HashiCorp.terraform",
+		"mgtrrz.terraform-completer",
+
+		"donjayamanne.git-extension-pack",
+		"teledemic.branch-warnings",
+		"david-rickard.git-diff-and-merge-tool",
+		"mhutchie.git-graph",
+		"felipecaputo.git-project-manager",
+
+		"ms-vscode.azurecli",
+		"golang.Go",
+		"CoenraadS.bracket-pair-colorizer-2",
+		"wraith13.bracket-lens",
+		"streetsidesoftware.code-spell-checker",
+		"alefragnani.Bookmarks",
+		"IgorSbitnev.error-gutters",
+		"ms-vscode.hexeditor",
+		"yzhang.markdown-all-in-one",
+		"Gruntfuggly.todo-tree"
+	]
+}
