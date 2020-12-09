@@ -28,6 +28,7 @@ This extension pack packages some of the most popular (and some of my favorite) 
 * [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 * [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)  
+* [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)  
 ## Want to see your extension added?
 
 Open a PR and I'd be happy to take a look. 
