@@ -2,7 +2,7 @@
 	"name": "terraform-extension-pack",
 	"displayName": "Terraform Extension Pack",
 	"description": "Popular Visual Studio Code extensions for Terraform",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "denwin",
 	"icon": "terraform-icon-color-7fbc9ecc.png",
 	"galleryBanner": {
